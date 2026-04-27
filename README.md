@@ -3,7 +3,8 @@
 
 📌 Overview
 
-    Developed an interactive Power BI dashboard using the Sakila dataset to analyze sales performance, customer behavior, film demand, and store operations.
+    Developed an interactive Power BI dashboard using the Sakila dataset to analyze 
+    sales performance, customer behavior, film demand, and store operations.
 
 🎯 Key Features
 
