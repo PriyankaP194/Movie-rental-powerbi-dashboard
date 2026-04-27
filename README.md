@@ -1,4 +1,4 @@
-# Movie-rental-powerbi-dashboar
+# Movie-rental-powerbi-dashboard
 🎬 Movie Rental Analysis Dashboard (Power BI)
 
 📌 Overview
