@@ -14,7 +14,7 @@ Developed an interactive movie rental analytics dashboard using Power BI to tran
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tools Used
 - Power BI  
 - DAX  
 - Data Modeling  
